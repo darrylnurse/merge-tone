@@ -10,6 +10,7 @@
     overflow: scroll;
     overflow-x: hidden;
     font-family: "Concert One", cursive;
+    background-color: rgb(243, 232, 200);
 }
 
 div {
@@ -38,8 +39,7 @@ img:hover {
 
 .top-page,
 .bottom-page {
-    background-color: rgb(243, 232, 200);
-    margin: 10px;
+    /*background-color: rgb(243, 232, 200);*/
     height: 70%;
 }
 
@@ -61,6 +61,7 @@ img:hover {
     align-items: flex-start;
     height: 60%;
     background-color: rgb(243, 232, 150);
+    padding-bottom: 30px;
 }
 
 .top-page-lower {
@@ -121,7 +122,7 @@ img:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(243, 232, 100);
+    /*background-color: rgb(243, 232, 100);*/
 }
 
 .merge-music {
